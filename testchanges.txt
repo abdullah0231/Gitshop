@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Demo
 Testing
 How to merge
+=======
+This is only for testing how to use github.
+>>>>>>> testing
